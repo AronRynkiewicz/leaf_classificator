@@ -138,11 +138,5 @@ dmypy.json
 cython_debug/
 
 # Project specific
-chromium_driver/
-credentials.py
 *.json
-/files
-/folder
-.idea/
-/folder1
-
+*.pkl
